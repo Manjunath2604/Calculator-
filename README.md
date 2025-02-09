@@ -1,4 +1,4 @@
-# Calculator. 
+# Simple Calculator. 
 
 This project is a simple Calculator  built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations directly from their browser.
 ## Features
